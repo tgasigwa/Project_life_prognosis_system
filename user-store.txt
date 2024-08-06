@@ -1,0 +1,6 @@
+firstName;lastName;inputEmail;uuid;inputPassword;profile;dateBirth;statusHiv;dateDiagnosis;statusArt;dateArt;countryISO
+Theogene;Gasigwa;;tgasigwa@andrew.cmu.edu;SHA2-256(stdin)= 33d12896a23911daf62f05e9ea1279fc01fc27ff82381e2a2b2ec8a826d5babc;ADMIN;;;;;;javac User.javatest@yahoo.fr,bc4b172b-66fd-4c50-ad06-6e61f351063c,PATIENT
+
+1b1112e3-b1b4-4a46-bc74-d383d69d2b29,gggg,hhhh,2020-20-20,true,2021-03-05,true,2023-12-20,ADG,12345
+af60f406-37db-4209-b462-a28d5a9eb1fc,ggg,gggg,2020-02-02,true,2021-09-09,true,2022-09-08,ADG,1234
+thhh,75c6b922-b5b0-4fb5-b4b1-dfc19ac4d5f8,Patient
