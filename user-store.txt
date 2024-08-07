@@ -4,3 +4,5 @@ Theogene;Gasigwa;;tgasigwa@andrew.cmu.edu;SHA2-256(stdin)= 33d12896a23911daf62f0
 1b1112e3-b1b4-4a46-bc74-d383d69d2b29,gggg,hhhh,2020-20-20,true,2021-03-05,true,2023-12-20,ADG,12345
 af60f406-37db-4209-b462-a28d5a9eb1fc,ggg,gggg,2020-02-02,true,2021-09-09,true,2022-09-08,ADG,1234
 thhh,75c6b922-b5b0-4fb5-b4b1-dfc19ac4d5f8,Patient
+gh;gh;tgasigwa@an;69d7a604-8b42-4439-9e91-80e72c83c7c0;88;PATIENT;5;6;6;8;8;9
+GGG;ttt;theos@123;97d3c2da-d2af-4a90-bf12-dd8c77eadf79;12345;PATIENT;2020-12-21;true;2021-02-05;true;2021-08-09;AGH
